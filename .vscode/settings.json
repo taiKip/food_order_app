@@ -1,0 +1,6 @@
+{
+    "autoimport.showNotifications": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
